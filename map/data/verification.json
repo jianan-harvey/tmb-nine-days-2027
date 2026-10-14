@@ -1,0 +1,12 @@
+{
+  "checked": "2026-10-14",
+  "directoryEntries": 43,
+  "mappedEntries": 43,
+  "missingEntries": [],
+  "extraMapFeedEntryNotInDirectory": "cabane-du-combal",
+  "coordinateMethod": "Exact coordinates from official public GeoJSON; no geocoding or manually estimated locations.",
+  "routeMethod": "All published coordinates preserved from official main, variant and off-GR GeoJSON layers.",
+  "individualPagesCoordinateMatches": 43,
+  "maximumCoordinateDifferenceMetres": 0,
+  "publishedWalkingDistanceRecords": 777
+}
