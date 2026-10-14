@@ -180,6 +180,23 @@
           "down": 1799,
           "source": "https://www.montourdumontblanc.com/en/refuges/gite-michel-fagot"
         }
+      ],
+      "mapEstimates": [
+        {
+          "to": "extra-bellachat",
+          "km": 7.1,
+          "label": "Previous on main trail"
+        },
+        {
+          "to": 32356,
+          "km": 6.6,
+          "label": "Next on main trail"
+        },
+        {
+          "to": 127958,
+          "km": 17.1,
+          "label": "Further along the main trail"
+        }
       ]
     },
     {
@@ -371,6 +388,23 @@
           "down": 2511,
           "source": "https://www.montourdumontblanc.com/en/refuges/refuge-du-fioux"
         }
+      ],
+      "mapEstimates": [
+        {
+          "to": 32369,
+          "km": 6.6,
+          "label": "Previous on main trail"
+        },
+        {
+          "to": 127958,
+          "km": 10.5,
+          "label": "Next on main trail"
+        },
+        {
+          "to": 32362,
+          "km": 15.2,
+          "label": "Further along the main trail"
+        }
       ]
     },
     {
@@ -502,6 +536,35 @@
           "down": 1595,
           "source": "https://www.montourdumontblanc.com/en/refuges/auberge-du-truc"
         }
+      ],
+      "mapEstimates": []
+    },
+    {
+      "id": "extra-miage",
+      "number": 49,
+      "name": "Refuge de Miage",
+      "area": "Saint-Gervais",
+      "country": "FRA",
+      "lat": 45.83914,
+      "lon": 6.75993,
+      "url": "https://www.refugemiage.com/o/le-refuge",
+      "coordinateSource": "https://www.refuges.info/point/415/gite-d-etape/refuge-de-Miage/",
+      "coordinateSourceLabel": "Refuges.info",
+      "routeNote": "On the Col de Tricot alternative via Miage and Auberge du Truc. This changes the route from Les Houches to Les Contamines.",
+      "extra": true,
+      "checked": "2026-10-14",
+      "mainGapM": 1768,
+      "mainKm": 12.890403339970828,
+      "sideGapM": 20,
+      "routeClass": "side",
+      "onward": [],
+      "previous": [],
+      "mapEstimates": [
+        {
+          "to": 32365,
+          "km": 1.5,
+          "label": "Along the same mapped alternative"
+        }
       ]
     },
     {
@@ -612,6 +675,23 @@
           "up": 1173,
           "down": 1211,
           "source": "https://www.montourdumontblanc.com/en/refuges/la-ferme-a-piron"
+        }
+      ],
+      "mapEstimates": [
+        {
+          "to": 32356,
+          "km": 10.5,
+          "label": "Previous on main trail"
+        },
+        {
+          "to": 32362,
+          "km": 4.7,
+          "label": "Next on main trail"
+        },
+        {
+          "to": 32361,
+          "km": 7.1,
+          "label": "Further along the main trail"
         }
       ]
     },
@@ -724,7 +804,8 @@
           "down": 1209,
           "source": "https://www.montourdumontblanc.com/en/refuges/gite-les-melezes"
         }
-      ]
+      ],
+      "mapEstimates": []
     },
     {
       "id": 39797,
@@ -835,7 +916,8 @@
           "down": 1247,
           "source": "https://www.montourdumontblanc.com/en/refuges/gite-le-pontet"
         }
-      ]
+      ],
+      "mapEstimates": []
     },
     {
       "id": 32362,
@@ -955,6 +1037,23 @@
           "up": 1154,
           "down": 1500,
           "source": "https://www.montourdumontblanc.com/en/refuges/refuge-de-nant-borrant"
+        }
+      ],
+      "mapEstimates": [
+        {
+          "to": 127958,
+          "km": 4.7,
+          "label": "Previous on main trail"
+        },
+        {
+          "to": 32361,
+          "km": 2.5,
+          "label": "Next on main trail"
+        },
+        {
+          "to": "extra-croix-bonhomme",
+          "km": 8.0,
+          "label": "Further along the main trail"
         }
       ]
     },
@@ -1107,7 +1206,8 @@
           "down": 1986,
           "source": "https://www.montourdumontblanc.com/en/refuges/refuge-des-pres"
         }
-      ]
+      ],
+      "mapEstimates": []
     },
     {
       "id": 32361,
@@ -1257,6 +1357,61 @@
           "up": 1147,
           "down": 1737,
           "source": "https://www.montourdumontblanc.com/en/refuges/refuge-de-la-balme"
+        }
+      ],
+      "mapEstimates": [
+        {
+          "to": 32362,
+          "km": 2.5,
+          "label": "Previous on main trail"
+        },
+        {
+          "to": "extra-croix-bonhomme",
+          "km": 5.6,
+          "label": "Next on main trail"
+        },
+        {
+          "to": 32367,
+          "km": 10.7,
+          "label": "Further along the main trail"
+        }
+      ]
+    },
+    {
+      "id": "extra-croix-bonhomme",
+      "number": 48,
+      "name": "Refuge de la Croix du Bonhomme",
+      "area": "Les Chapieux / Les Mottets",
+      "country": "FRA",
+      "lat": 45.722058,
+      "lon": 6.717266,
+      "url": "https://refugecroixdubonhomme.ffcam.fr/",
+      "coordinateSource": "https://savoie.alpes-refuges.fr/fiche-hebergement-refuge-de-la-croix-du-bonhomme-ffcam-beaufortain-beaufortain-R7320cro.html",
+      "coordinateSourceLabel": "FFCAM / Savoie refuges",
+      "routeNote": "On the main route between La Balme and Les Chapieux, near the Col des Fours variant junction.",
+      "extra": true,
+      "checked": "2026-10-14",
+      "mainGapM": 18,
+      "mainKm": 30.434589614549058,
+      "sideGapM": 275,
+      "routeClass": "main",
+      "onward": [],
+      "previous": [],
+      "mapEstimates": [
+        {
+          "to": 32361,
+          "km": 5.6,
+          "label": "Previous on main trail"
+        },
+        {
+          "to": 32367,
+          "km": 5.1,
+          "label": "Next on main trail"
+        },
+        {
+          "to": 116701,
+          "km": 5.3,
+          "label": "Further along the main trail"
         }
       ]
     },
@@ -1429,6 +1584,23 @@
           "down": 2494,
           "source": "https://www.montourdumontblanc.com/en/refuges/auberge-refuge-de-la-nova"
         }
+      ],
+      "mapEstimates": [
+        {
+          "to": "extra-croix-bonhomme",
+          "km": 5.1,
+          "label": "Previous on main trail"
+        },
+        {
+          "to": 116701,
+          "km": 0.1,
+          "label": "Next on main trail"
+        },
+        {
+          "to": 32368,
+          "km": 6.4,
+          "label": "Further along the main trail"
+        }
       ]
     },
     {
@@ -1599,6 +1771,23 @@
           "up": 2060,
           "down": 2495,
           "source": "https://www.montourdumontblanc.com/en/refuges/les-chambres-du-soleil"
+        }
+      ],
+      "mapEstimates": [
+        {
+          "to": 32367,
+          "km": 0.1,
+          "label": "Previous on main trail"
+        },
+        {
+          "to": 32368,
+          "km": 6.3,
+          "label": "Next on main trail"
+        },
+        {
+          "to": 32386,
+          "km": 24.4,
+          "label": "Further along the main trail"
         }
       ]
     },
@@ -1821,7 +2010,90 @@
           "down": 2907,
           "source": "https://www.montourdumontblanc.com/en/refuges/refuge-des-mottets"
         }
+      ],
+      "mapEstimates": [
+        {
+          "to": 116701,
+          "km": 6.3,
+          "label": "Previous on main trail"
+        },
+        {
+          "to": 32386,
+          "km": 18.1,
+          "label": "Next on main trail"
+        },
+        {
+          "to": 32389,
+          "km": 18.8,
+          "label": "Further along the main trail"
+        }
       ]
+    },
+    {
+      "id": "extra-robert-blanc",
+      "number": 54,
+      "name": "Refuge Robert Blanc",
+      "area": "Les Chapieux / Les Mottets",
+      "country": "FRA",
+      "lat": 45.7653,
+      "lon": 6.7744,
+      "url": "https://refugerobertblanc.fr/",
+      "coordinateSource": "https://www.refuges.info/point/347/refuge-garde/refuge-Robert-Blanc/",
+      "coordinateSourceLabel": "Refuges.info",
+      "routeNote": "A demanding high-level alternative via the Thomas Roques trail, not a simple overnight swap for Mottets. Confirm snow and access conditions with the refuge.",
+      "extra": true,
+      "checked": "2026-10-14",
+      "mainGapM": 2533,
+      "mainKm": 45.04169457264688,
+      "sideGapM": 7,
+      "routeClass": "side",
+      "onward": [],
+      "previous": [],
+      "mapEstimates": []
+    },
+    {
+      "id": "extra-elisabetta",
+      "number": 46,
+      "name": "Rifugio Elisabetta",
+      "area": "Courmayeur - Val Veny",
+      "country": "ITA",
+      "lat": 45.767,
+      "lon": 6.83745,
+      "url": "https://www.rifugioelisabetta.com/",
+      "coordinateSource": "https://www.refuges.info/point/384/refuge-garde/refuge-Elisabetta-Soldini-Montanaro/",
+      "coordinateSourceLabel": "Refuges.info",
+      "routeNote": "Near the main TMB below Col de la Seigne. A short uphill access path leads to the refuge.",
+      "extra": true,
+      "checked": "2026-10-14",
+      "mainGapM": 120,
+      "mainKm": 49.75559690911933,
+      "sideGapM": 2698,
+      "routeClass": "near",
+      "onward": [],
+      "previous": [],
+      "mapEstimates": []
+    },
+    {
+      "id": "extra-combal",
+      "number": 47,
+      "name": "Cabane du Combal",
+      "area": "Courmayeur - Val Veny",
+      "country": "ITA",
+      "lat": 45.776372,
+      "lon": 6.867726,
+      "url": "https://cabaneducombal.com/",
+      "coordinateSource": "https://www.montourdumontblanc.com/en/geojson/refuges",
+      "coordinateSourceLabel": "TMB association map feed",
+      "routeNote": "Beside Lac Combal in Val Veny; reached by a short branch from the main route.",
+      "extra": true,
+      "checked": "2026-10-14",
+      "mainGapM": 176,
+      "mainKm": 52.92564889180112,
+      "sideGapM": 211,
+      "routeClass": "near",
+      "onward": [],
+      "previous": [],
+      "mapEstimates": []
     },
     {
       "id": 32386,
@@ -2062,6 +2334,23 @@
           "down": 2860,
           "source": "https://www.montourdumontblanc.com/en/refuges/rifugio-maison-vieille"
         }
+      ],
+      "mapEstimates": [
+        {
+          "to": 32368,
+          "km": 18.1,
+          "label": "Previous on main trail"
+        },
+        {
+          "to": 32389,
+          "km": 0.7,
+          "label": "Next on main trail"
+        },
+        {
+          "to": 32385,
+          "km": 9.9,
+          "label": "Further along the main trail"
+        }
       ]
     },
     {
@@ -2273,7 +2562,8 @@
           "down": 2544,
           "source": "https://www.montourdumontblanc.com/en/refuges/rifugio-monte-bianco-cai-uget"
         }
-      ]
+      ],
+      "mapEstimates": []
     },
     {
       "id": 32389,
@@ -2513,6 +2803,23 @@
           "up": 2131,
           "down": 2868,
           "source": "https://www.montourdumontblanc.com/en/refuges/Gite-le-Randonneur-du-Mont-Blanc"
+        }
+      ],
+      "mapEstimates": [
+        {
+          "to": 32386,
+          "km": 0.7,
+          "label": "Previous on main trail"
+        },
+        {
+          "to": 32385,
+          "km": 9.2,
+          "label": "Next on main trail"
+        },
+        {
+          "to": "extra-bonatti",
+          "km": 16.7,
+          "label": "Further along the main trail"
         }
       ]
     },
@@ -2755,6 +3062,23 @@
           "down": 2331,
           "source": "https://www.montourdumontblanc.com/en/refuges/rifugio-g-bertone"
         }
+      ],
+      "mapEstimates": [
+        {
+          "to": 32389,
+          "km": 9.2,
+          "label": "Previous on main trail"
+        },
+        {
+          "to": "extra-bonatti",
+          "km": 7.6,
+          "label": "Next on main trail"
+        },
+        {
+          "to": 32393,
+          "km": 12.7,
+          "label": "Further along the main trail"
+        }
       ]
     },
     {
@@ -2966,7 +3290,8 @@
           "down": 2018,
           "source": "https://www.montourdumontblanc.com/en/refuges/hotel-funivia"
         }
-      ]
+      ],
+      "mapEstimates": []
     },
     {
       "id": 127964,
@@ -3147,7 +3472,8 @@
           "down": 2035,
           "source": "https://www.montourdumontblanc.com/en/refuges/rifugio-chapy-mont-blanc"
         }
-      ]
+      ],
+      "mapEstimates": []
     },
     {
       "id": 32391,
@@ -3368,6 +3694,45 @@
           "down": 2182,
           "source": "https://www.montourdumontblanc.com/en/refuges/hotel-lavachey"
         }
+      ],
+      "mapEstimates": []
+    },
+    {
+      "id": "extra-bonatti",
+      "number": 44,
+      "name": "Rifugio Bonatti",
+      "area": "Courmayeur - Val Ferret",
+      "country": "ITA",
+      "lat": 45.84698,
+      "lon": 7.03339,
+      "url": "https://www.rifugiobonatti.it/",
+      "coordinateSource": "https://www.rifugiobonatti.it/",
+      "coordinateSourceLabel": "Refuge website",
+      "routeNote": "On the Val Ferret balcony trail between Bertone and Arnuva.",
+      "extra": true,
+      "checked": "2026-10-14",
+      "mainGapM": 29,
+      "mainKm": 77.50110819507358,
+      "sideGapM": 131,
+      "routeClass": "main",
+      "onward": [],
+      "previous": [],
+      "mapEstimates": [
+        {
+          "to": 32385,
+          "km": 7.6,
+          "label": "Previous on main trail"
+        },
+        {
+          "to": 32393,
+          "km": 5.1,
+          "label": "Next on main trail"
+        },
+        {
+          "to": "extra-elena",
+          "km": 7.6,
+          "label": "Further along the main trail"
+        }
       ]
     },
     {
@@ -3568,6 +3933,61 @@
           "up": 3041,
           "down": 1359,
           "source": "https://www.montourdumontblanc.com/en/refuges/hotel-chalet-val-ferret"
+        }
+      ],
+      "mapEstimates": [
+        {
+          "to": "extra-bonatti",
+          "km": 5.1,
+          "label": "Previous on main trail"
+        },
+        {
+          "to": "extra-elena",
+          "km": 2.5,
+          "label": "Next on main trail"
+        },
+        {
+          "to": 32398,
+          "km": 8.3,
+          "label": "Further along the main trail"
+        }
+      ]
+    },
+    {
+      "id": "extra-elena",
+      "number": 45,
+      "name": "Rifugio Elena",
+      "area": "Courmayeur - Val Ferret",
+      "country": "ITA",
+      "lat": 45.884789749,
+      "lon": 7.065618058,
+      "url": "https://www.rifugioelena.it/",
+      "coordinateSource": "https://www.lovevda.it/en/database/22/where-to-sleep/courmayeur/elena/7000760",
+      "coordinateSourceLabel": "Aosta Valley tourism map",
+      "routeNote": "Above Arnuva, before the climb to Grand Col Ferret.",
+      "extra": true,
+      "checked": "2026-10-14",
+      "mainGapM": 19,
+      "mainKm": 85.10081600079594,
+      "sideGapM": 6,
+      "routeClass": "main",
+      "onward": [],
+      "previous": [],
+      "mapEstimates": [
+        {
+          "to": 32393,
+          "km": 2.5,
+          "label": "Previous on main trail"
+        },
+        {
+          "to": 32398,
+          "km": 5.8,
+          "label": "Next on main trail"
+        },
+        {
+          "to": 32396,
+          "km": 10.1,
+          "label": "Further along the main trail"
         }
       ]
     },
@@ -3810,6 +4230,23 @@
           "down": 1903,
           "source": "https://www.montourdumontblanc.com/en/refuges/gite-alpage-de-la-peule"
         }
+      ],
+      "mapEstimates": [
+        {
+          "to": "extra-elena",
+          "km": 5.8,
+          "label": "Previous on main trail"
+        },
+        {
+          "to": 32396,
+          "km": 4.2,
+          "label": "Next on main trail"
+        },
+        {
+          "to": 32397,
+          "km": 5.0,
+          "label": "Further along the main trail"
+        }
       ]
     },
     {
@@ -4041,6 +4478,23 @@
           "down": 1882,
           "source": "https://www.montourdumontblanc.com/en/refuges/hotel-du-col-de-fenetre"
         }
+      ],
+      "mapEstimates": [
+        {
+          "to": 32398,
+          "km": 4.2,
+          "label": "Previous on main trail"
+        },
+        {
+          "to": 32397,
+          "km": 0.8,
+          "label": "Next on main trail"
+        },
+        {
+          "to": 32399,
+          "km": 2.1,
+          "label": "Further along the main trail"
+        }
       ]
     },
     {
@@ -4271,6 +4725,23 @@
           "up": 1905,
           "down": 1914,
           "source": "https://www.montourdumontblanc.com/en/refuges/gite-la-lechere"
+        }
+      ],
+      "mapEstimates": [
+        {
+          "to": 32396,
+          "km": 0.8,
+          "label": "Previous on main trail"
+        },
+        {
+          "to": 32399,
+          "km": 1.3,
+          "label": "Next on main trail"
+        },
+        {
+          "to": 46179,
+          "km": 1.5,
+          "label": "Further along the main trail"
         }
       ]
     },
@@ -4513,6 +4984,23 @@
           "down": 1906,
           "source": "https://www.montourdumontblanc.com/en/refuges/chalet-le-dolent"
         }
+      ],
+      "mapEstimates": [
+        {
+          "to": 32397,
+          "km": 1.3,
+          "label": "Previous on main trail"
+        },
+        {
+          "to": 46179,
+          "km": 0.2,
+          "label": "Next on main trail"
+        },
+        {
+          "to": 32394,
+          "km": 0.4,
+          "label": "Further along the main trail"
+        }
       ]
     },
     {
@@ -4743,6 +5231,23 @@
           "up": 2001,
           "down": 1936,
           "source": "https://www.montourdumontblanc.com/en/refuges/maya-joie"
+        }
+      ],
+      "mapEstimates": [
+        {
+          "to": 32399,
+          "km": 0.2,
+          "label": "Previous on main trail"
+        },
+        {
+          "to": 32394,
+          "km": 0.2,
+          "label": "Next on main trail"
+        },
+        {
+          "to": 114712,
+          "km": 0.3,
+          "label": "Further along the main trail"
         }
       ]
     },
@@ -4985,6 +5490,23 @@
           "down": 1914,
           "source": "https://www.montourdumontblanc.com/en/refuges/auberge-des-glaciers-120842"
         }
+      ],
+      "mapEstimates": [
+        {
+          "to": 46179,
+          "km": 0.2,
+          "label": "Previous on main trail"
+        },
+        {
+          "to": 114712,
+          "km": 0.1,
+          "label": "Next on main trail"
+        },
+        {
+          "to": 32395,
+          "km": 0.2,
+          "label": "Further along the main trail"
+        }
       ]
     },
     {
@@ -5226,6 +5748,23 @@
           "down": 1901,
           "source": "https://www.montourdumontblanc.com/en/refuges/la-fouly-lodge"
         }
+      ],
+      "mapEstimates": [
+        {
+          "to": 32394,
+          "km": 0.1,
+          "label": "Previous on main trail"
+        },
+        {
+          "to": 32395,
+          "km": 0.1,
+          "label": "Next on main trail"
+        },
+        {
+          "to": 32401,
+          "km": 15.1,
+          "label": "Further along the main trail"
+        }
       ]
     },
     {
@@ -5466,6 +6005,23 @@
           "up": 2007,
           "down": 1928,
           "source": "https://www.montourdumontblanc.com/en/refuges/hotel-edelweiss"
+        }
+      ],
+      "mapEstimates": [
+        {
+          "to": 114712,
+          "km": 0.1,
+          "label": "Previous on main trail"
+        },
+        {
+          "to": 32401,
+          "km": 15.1,
+          "label": "Next on main trail"
+        },
+        {
+          "to": 32400,
+          "km": 16.4,
+          "label": "Further along the main trail"
         }
       ]
     },
@@ -5718,6 +6274,23 @@
           "down": 1804,
           "source": "https://www.montourdumontblanc.com/en/refuges/pension-en-plein-air"
         }
+      ],
+      "mapEstimates": [
+        {
+          "to": 32395,
+          "km": 15.1,
+          "label": "Previous on main trail"
+        },
+        {
+          "to": 32400,
+          "km": 1.3,
+          "label": "Next on main trail"
+        },
+        {
+          "to": 32404,
+          "km": 13.5,
+          "label": "Further along the main trail"
+        }
       ]
     },
     {
@@ -5959,7 +6532,8 @@
           "down": 2013,
           "source": "https://www.montourdumontblanc.com/en/refuges/relais-d-arpette"
         }
-      ]
+      ],
+      "mapEstimates": []
     },
     {
       "id": 32400,
@@ -6199,6 +6773,23 @@
           "up": 1763,
           "down": 1856,
           "source": "https://www.montourdumontblanc.com/en/refuges/auberge-gite-bon-abri"
+        }
+      ],
+      "mapEstimates": [
+        {
+          "to": 32401,
+          "km": 1.3,
+          "label": "Previous on main trail"
+        },
+        {
+          "to": 32404,
+          "km": 12.2,
+          "label": "Next on main trail"
+        },
+        {
+          "to": 39703,
+          "km": 14.2,
+          "label": "Further along the main trail"
         }
       ]
     },
@@ -6441,7 +7032,8 @@
           "down": 1856,
           "source": "https://www.montourdumontblanc.com/en/refuges/Chalet-la-Grange"
         }
-      ]
+      ],
+      "mapEstimates": []
     },
     {
       "id": 32404,
@@ -6652,6 +7244,23 @@
           "down": 1771,
           "source": "https://www.montourdumontblanc.com/en/refuges/hotel-du-col-de-la-forclaz"
         }
+      ],
+      "mapEstimates": [
+        {
+          "to": 32400,
+          "km": 12.2,
+          "label": "Previous on main trail"
+        },
+        {
+          "to": 39703,
+          "km": 2.1,
+          "label": "Next on main trail"
+        },
+        {
+          "to": 32405,
+          "km": 3.3,
+          "label": "Further along the main trail"
+        }
       ]
     },
     {
@@ -6853,7 +7462,8 @@
           "down": 1252,
           "source": "https://www.montourdumontblanc.com/en/refuges/auberge-mont-blanc"
         }
-      ]
+      ],
+      "mapEstimates": []
     },
     {
       "id": 39703,
@@ -7053,6 +7663,23 @@
           "up": 2041,
           "down": 1252,
           "source": "https://www.montourdumontblanc.com/en/refuges/auberge-la-grande-ourse"
+        }
+      ],
+      "mapEstimates": [
+        {
+          "to": 32404,
+          "km": 2.1,
+          "label": "Previous on main trail"
+        },
+        {
+          "to": 32405,
+          "km": 1.2,
+          "label": "Next on main trail"
+        },
+        {
+          "to": "extra-col-balme",
+          "km": 6.3,
+          "label": "Further along the main trail"
         }
       ]
     },
@@ -7254,6 +7881,61 @@
           "up": 2033,
           "down": 1285,
           "source": "https://www.montourdumontblanc.com/en/refuges/refuge-le-peuty"
+        }
+      ],
+      "mapEstimates": [
+        {
+          "to": 39703,
+          "km": 1.2,
+          "label": "Previous on main trail"
+        },
+        {
+          "to": "extra-col-balme",
+          "km": 5.1,
+          "label": "Next on main trail"
+        },
+        {
+          "to": "extra-flegere",
+          "km": 19.6,
+          "label": "Further along the main trail"
+        }
+      ]
+    },
+    {
+      "id": "extra-col-balme",
+      "number": 53,
+      "name": "Refuge du Col de Balme",
+      "area": "Trient",
+      "country": "CHE",
+      "lat": 46.02669,
+      "lon": 6.97006,
+      "url": "https://www.refugeducoldebalme.com/en/contact",
+      "coordinateSource": "https://www.refuges.info/point/341/gite-d-etape/refuge-du-Col-de-Balme/",
+      "coordinateSourceLabel": "Refuges.info",
+      "routeNote": "At the France–Switzerland border on the main TMB. This is a different refuge from La Balme above Les Contamines.",
+      "extra": true,
+      "checked": "2026-10-14",
+      "mainGapM": 78,
+      "mainKm": 134.7092652996485,
+      "sideGapM": 15,
+      "routeClass": "main",
+      "onward": [],
+      "previous": [],
+      "mapEstimates": [
+        {
+          "to": 32405,
+          "km": 5.1,
+          "label": "Previous on main trail"
+        },
+        {
+          "to": "extra-flegere",
+          "km": 14.5,
+          "label": "Next on main trail"
+        },
+        {
+          "to": "extra-bellachat",
+          "km": 24.7,
+          "label": "Further along the main trail"
         }
       ]
     },
@@ -7476,7 +8158,8 @@
           "down": 2129,
           "source": "https://www.montourdumontblanc.com/en/refuges/gite-d-alpage-les-ecuries-de-charamillon"
         }
-      ]
+      ],
+      "mapEstimates": []
     },
     {
       "id": 127967,
@@ -7707,7 +8390,8 @@
           "down": 2011,
           "source": "https://www.montourdumontblanc.com/en/refuges/gite-saint-louis"
         }
-      ]
+      ],
+      "mapEstimates": []
     },
     {
       "id": 32383,
@@ -7868,7 +8552,8 @@
           "down": 1847,
           "source": "https://www.montourdumontblanc.com/en/refuges/gite-mermoud"
         }
-      ]
+      ],
+      "mapEstimates": []
     },
     {
       "id": 127963,
@@ -8099,7 +8784,8 @@
           "down": 2145,
           "source": "https://www.montourdumontblanc.com/en/refuges/letour"
         }
-      ]
+      ],
+      "mapEstimates": []
     },
     {
       "id": 32378,
@@ -8260,7 +8946,8 @@
           "down": 2321,
           "source": "https://www.montourdumontblanc.com/en/refuges/auberge-la-boerne"
         }
-      ]
+      ],
+      "mapEstimates": []
     },
     {
       "id": 32379,
@@ -8491,6 +9178,105 @@
           "down": 2152,
           "source": "https://www.montourdumontblanc.com/en/refuges/G%C3%AEte-le-moulin"
         }
+      ],
+      "mapEstimates": []
+    },
+    {
+      "id": "extra-lac-blanc",
+      "number": 50,
+      "name": "Refuge du Lac Blanc",
+      "area": "Argentière / Chamonix Mont-Blanc",
+      "country": "FRA",
+      "lat": 45.9817,
+      "lon": 6.8919,
+      "url": "https://refugelacblanc.com/",
+      "coordinateSource": "https://www.espace-mont-blanc.com/asset/fiches-techniques-operationnelles.pdf",
+      "coordinateSourceLabel": "Espace Mont-Blanc refuge inventory",
+      "routeNote": "A higher alternative above the main Grand Balcon Sud trail, between the Chéserys lakes and Flégère.",
+      "extra": true,
+      "checked": "2026-10-14",
+      "mainGapM": 726,
+      "mainKm": 146.6568171495959,
+      "sideGapM": 27,
+      "routeClass": "side",
+      "onward": [],
+      "previous": [],
+      "mapEstimates": []
+    },
+    {
+      "id": "extra-flegere",
+      "number": 51,
+      "name": "Refuge de la Flégère",
+      "area": "Argentière / Chamonix Mont-Blanc",
+      "country": "FRA",
+      "lat": 45.9599712,
+      "lon": 6.8875027,
+      "url": "https://www.refuge-de-la-flegere.com/en/",
+      "coordinateSource": "https://www.refuge-de-la-flegere.com/en/access-2/",
+      "coordinateSourceLabel": "Refuge website",
+      "routeNote": "On the main TMB at Flégère, between the Chéserys area and Planpraz.",
+      "extra": true,
+      "checked": "2026-10-14",
+      "mainGapM": 1,
+      "mainKm": 149.25228867126629,
+      "sideGapM": 454,
+      "routeClass": "main",
+      "onward": [],
+      "previous": [],
+      "mapEstimates": [
+        {
+          "to": "extra-col-balme",
+          "km": 14.5,
+          "label": "Previous on main trail"
+        },
+        {
+          "to": "extra-bellachat",
+          "km": 10.1,
+          "label": "Next on main trail"
+        },
+        {
+          "to": 32369,
+          "km": 17.3,
+          "label": "Further along the main trail"
+        }
+      ]
+    },
+    {
+      "id": "extra-bellachat",
+      "number": 52,
+      "name": "Refuge de Bellachat",
+      "area": "Argentière / Chamonix Mont-Blanc",
+      "country": "FRA",
+      "lat": 45.9221693203963,
+      "lon": 6.829552329628221,
+      "url": "https://www.refuge-bellachat.com/hut",
+      "coordinateSource": "https://www.chamonix360.com/pointsofinterest/refuge-de-bellachat",
+      "coordinateSourceLabel": "Chamonix360 mapped point",
+      "routeNote": "On the descent from Le Brévent towards Les Houches.",
+      "extra": true,
+      "checked": "2026-10-14",
+      "mainGapM": 6,
+      "mainKm": 159.39271629937352,
+      "sideGapM": 20,
+      "routeClass": "main",
+      "onward": [],
+      "previous": [],
+      "mapEstimates": [
+        {
+          "to": "extra-flegere",
+          "km": 10.1,
+          "label": "Previous on main trail"
+        },
+        {
+          "to": 32369,
+          "km": 7.1,
+          "label": "Next on main trail"
+        },
+        {
+          "to": 32356,
+          "km": 13.7,
+          "label": "Further along the main trail"
+        }
       ]
     },
     {
@@ -8672,7 +9458,8 @@
           "down": 1769,
           "source": "https://www.montourdumontblanc.com/en/refuges/chalet-les-meandres-ex-tupilak"
         }
-      ]
+      ],
+      "mapEstimates": []
     }
   ],
   "stages": [
@@ -16446,5 +17233,6 @@
       "down": 1285,
       "source": "https://www.montourdumontblanc.com/en/refuges/refuge-le-peuty"
     }
-  ]
+  ],
+  "additionalCount": 11
 }

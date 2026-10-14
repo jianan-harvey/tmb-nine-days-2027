@@ -1,12 +1,15 @@
 {
   "checked": "2026-10-14",
   "directoryEntries": 43,
-  "mappedEntries": 43,
+  "mappedEntries": 54,
   "missingEntries": [],
-  "extraMapFeedEntryNotInDirectory": "cabane-du-combal",
-  "coordinateMethod": "Exact coordinates from official public GeoJSON; no geocoding or manually estimated locations.",
+  "coordinateMethod": "Original 43 pins from TMB association; 11 additional pins from linked refuge, tourism and specialist mapping sources. No guessed or geocoded coordinates.",
   "routeMethod": "All published coordinates preserved from official main, variant and off-GR GeoJSON layers.",
   "individualPagesCoordinateMatches": 43,
   "maximumCoordinateDifferenceMetres": 0,
-  "publishedWalkingDistanceRecords": 777
+  "publishedWalkingDistanceRecords": 777,
+  "additionalEntries": 11,
+  "newPins": "44\u201354; original 1\u201343 retained",
+  "additionalSources": "data/additional-huts.json",
+  "distanceMethod": "777 original published directional walking distances retained. Additional map estimates exclude local access paths; unverified access distances are not supplied."
 }
