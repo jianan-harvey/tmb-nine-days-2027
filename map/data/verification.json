@@ -9,7 +9,7 @@
   "maximumCoordinateDifferenceMetres": 0,
   "publishedWalkingDistanceRecords": 777,
   "additionalEntries": 11,
-  "newPins": "44\u201354; original 1\u201343 retained",
   "additionalSources": "data/additional-huts.json",
-  "distanceMethod": "777 original published directional walking distances retained. Additional map estimates exclude local access paths; unverified access distances are not supplied."
+  "distanceMethod": "777 original published directional walking distances retained. Additional map estimates exclude local access paths; unverified access distances are not supplied.",
+  "numbering": "All 54 stays numbered counterclockwise from Les Houches by nearest main-route progress; tied alternative-route locations follow that alternative."
 }

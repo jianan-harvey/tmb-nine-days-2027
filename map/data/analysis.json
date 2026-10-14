@@ -408,8 +408,36 @@
       ]
     },
     {
-      "id": 32365,
+      "id": "extra-miage",
       "number": 3,
+      "name": "Refuge de Miage",
+      "area": "Saint-Gervais",
+      "country": "FRA",
+      "lat": 45.83914,
+      "lon": 6.75993,
+      "url": "https://www.refugemiage.com/o/le-refuge",
+      "coordinateSource": "https://www.refuges.info/point/415/gite-d-etape/refuge-de-Miage/",
+      "coordinateSourceLabel": "Refuges.info",
+      "routeNote": "On the Col de Tricot alternative via Miage and Auberge du Truc. This changes the route from Les Houches to Les Contamines.",
+      "extra": true,
+      "checked": "2026-10-14",
+      "mainGapM": 1768,
+      "mainKm": 12.890403339970828,
+      "sideGapM": 20,
+      "routeClass": "side",
+      "onward": [],
+      "previous": [],
+      "mapEstimates": [
+        {
+          "to": 32365,
+          "km": 1.5,
+          "label": "Along the same mapped alternative"
+        }
+      ]
+    },
+    {
+      "id": 32365,
+      "number": 4,
       "name": "Auberge du Truc",
       "area": "Les Contamines-Montjoie",
       "country": "FRA",
@@ -540,36 +568,8 @@
       "mapEstimates": []
     },
     {
-      "id": "extra-miage",
-      "number": 49,
-      "name": "Refuge de Miage",
-      "area": "Saint-Gervais",
-      "country": "FRA",
-      "lat": 45.83914,
-      "lon": 6.75993,
-      "url": "https://www.refugemiage.com/o/le-refuge",
-      "coordinateSource": "https://www.refuges.info/point/415/gite-d-etape/refuge-de-Miage/",
-      "coordinateSourceLabel": "Refuges.info",
-      "routeNote": "On the Col de Tricot alternative via Miage and Auberge du Truc. This changes the route from Les Houches to Les Contamines.",
-      "extra": true,
-      "checked": "2026-10-14",
-      "mainGapM": 1768,
-      "mainKm": 12.890403339970828,
-      "sideGapM": 20,
-      "routeClass": "side",
-      "onward": [],
-      "previous": [],
-      "mapEstimates": [
-        {
-          "to": 32365,
-          "km": 1.5,
-          "label": "Along the same mapped alternative"
-        }
-      ]
-    },
-    {
       "id": 127958,
-      "number": 4,
+      "number": 5,
       "name": "La Ferme à Piron",
       "area": "Les Contamines-Montjoie",
       "country": "FRA",
@@ -697,7 +697,7 @@
     },
     {
       "id": 123462,
-      "number": 5,
+      "number": 6,
       "name": "Gîte Les Mélèzes",
       "area": "Les Contamines-Montjoie",
       "country": "FRA",
@@ -809,7 +809,7 @@
     },
     {
       "id": 39797,
-      "number": 6,
+      "number": 7,
       "name": "Gîte le Pontet",
       "area": "Les Contamines-Montjoie",
       "country": "FRA",
@@ -921,7 +921,7 @@
     },
     {
       "id": 32362,
-      "number": 7,
+      "number": 8,
       "name": "Refuge de Nant Borrant",
       "area": "Les Contamines-Montjoie",
       "country": "FRA",
@@ -1059,7 +1059,7 @@
     },
     {
       "id": 116702,
-      "number": 8,
+      "number": 9,
       "name": "Refuge des Prés",
       "area": "Les Contamines-Montjoie",
       "country": "FRA",
@@ -1211,7 +1211,7 @@
     },
     {
       "id": 32361,
-      "number": 9,
+      "number": 10,
       "name": "Refuge de la Balme",
       "area": "Les Contamines-Montjoie",
       "country": "FRA",
@@ -1379,7 +1379,7 @@
     },
     {
       "id": "extra-croix-bonhomme",
-      "number": 48,
+      "number": 11,
       "name": "Refuge de la Croix du Bonhomme",
       "area": "Les Chapieux / Les Mottets",
       "country": "FRA",
@@ -1417,7 +1417,7 @@
     },
     {
       "id": 32367,
-      "number": 10,
+      "number": 12,
       "name": "Auberge-Refuge de la Nova",
       "area": "Les Chapieux / Les Mottets",
       "country": "FRA",
@@ -1605,7 +1605,7 @@
     },
     {
       "id": 116701,
-      "number": 11,
+      "number": 13,
       "name": "Les Chambres du Soleil",
       "area": "Les Chapieux / Les Mottets",
       "country": "FRA",
@@ -1793,7 +1793,7 @@
     },
     {
       "id": 32368,
-      "number": 12,
+      "number": 14,
       "name": "Refuge des Mottets",
       "area": "Les Chapieux / Les Mottets",
       "country": "FRA",
@@ -2031,7 +2031,7 @@
     },
     {
       "id": "extra-robert-blanc",
-      "number": 54,
+      "number": 15,
       "name": "Refuge Robert Blanc",
       "area": "Les Chapieux / Les Mottets",
       "country": "FRA",
@@ -2053,7 +2053,7 @@
     },
     {
       "id": "extra-elisabetta",
-      "number": 46,
+      "number": 16,
       "name": "Rifugio Elisabetta",
       "area": "Courmayeur - Val Veny",
       "country": "ITA",
@@ -2075,7 +2075,7 @@
     },
     {
       "id": "extra-combal",
-      "number": 47,
+      "number": 17,
       "name": "Cabane du Combal",
       "area": "Courmayeur - Val Veny",
       "country": "ITA",
@@ -2097,7 +2097,7 @@
     },
     {
       "id": 32386,
-      "number": 13,
+      "number": 18,
       "name": "Rifugio Maison Vieille",
       "area": "Courmayeur - Val Veny",
       "country": "ITA",
@@ -2355,7 +2355,7 @@
     },
     {
       "id": 32388,
-      "number": 14,
+      "number": 19,
       "name": "Rifugio Monte Bianco - Cai Uget",
       "area": "Courmayeur - Val Veny",
       "country": "ITA",
@@ -2567,7 +2567,7 @@
     },
     {
       "id": 32389,
-      "number": 15,
+      "number": 20,
       "name": "Gite le Randonneur du Mont Blanc",
       "area": "Courmayeur - Val Veny",
       "country": "ITA",
@@ -2825,7 +2825,7 @@
     },
     {
       "id": 32385,
-      "number": 16,
+      "number": 21,
       "name": "Rifugio G. Bertone",
       "area": "Courmayeur - Val Ferret",
       "country": "ITA",
@@ -3083,7 +3083,7 @@
     },
     {
       "id": 32390,
-      "number": 17,
+      "number": 22,
       "name": "Hôtel Funivia",
       "area": "Courmayeur - Val Ferret",
       "country": "ITA",
@@ -3295,7 +3295,7 @@
     },
     {
       "id": 127964,
-      "number": 18,
+      "number": 23,
       "name": "Rifugio Chapy Mont Blanc",
       "area": "Courmayeur - Val Ferret",
       "country": "ITA",
@@ -3477,7 +3477,7 @@
     },
     {
       "id": 32391,
-      "number": 19,
+      "number": 24,
       "name": "Hôtel Lavachey",
       "area": "Courmayeur - Val Ferret",
       "country": "ITA",
@@ -3699,7 +3699,7 @@
     },
     {
       "id": "extra-bonatti",
-      "number": 44,
+      "number": 25,
       "name": "Rifugio Bonatti",
       "area": "Courmayeur - Val Ferret",
       "country": "ITA",
@@ -3737,7 +3737,7 @@
     },
     {
       "id": 32393,
-      "number": 20,
+      "number": 26,
       "name": "Hôtel Chalet Val Ferret",
       "area": "Courmayeur - Val Ferret",
       "country": "ITA",
@@ -3955,7 +3955,7 @@
     },
     {
       "id": "extra-elena",
-      "number": 45,
+      "number": 27,
       "name": "Rifugio Elena",
       "area": "Courmayeur - Val Ferret",
       "country": "ITA",
@@ -3993,7 +3993,7 @@
     },
     {
       "id": 32398,
-      "number": 21,
+      "number": 28,
       "name": "Gîte Alpage de La Peule",
       "area": "La Fouly",
       "country": "CHE",
@@ -4251,7 +4251,7 @@
     },
     {
       "id": 32396,
-      "number": 22,
+      "number": 29,
       "name": "Hotel du Col de Fenêtre",
       "area": "La Fouly",
       "country": "CHE",
@@ -4499,7 +4499,7 @@
     },
     {
       "id": 32397,
-      "number": 23,
+      "number": 30,
       "name": "Gîte La Léchère",
       "area": "La Fouly",
       "country": "CHE",
@@ -4747,7 +4747,7 @@
     },
     {
       "id": 32399,
-      "number": 24,
+      "number": 31,
       "name": "Chalet 'Le Dolent'",
       "area": "La Fouly",
       "country": "CHE",
@@ -5005,7 +5005,7 @@
     },
     {
       "id": 46179,
-      "number": 25,
+      "number": 32,
       "name": "Auberge Maya-Joie",
       "area": "La Fouly",
       "country": "CHE",
@@ -5253,7 +5253,7 @@
     },
     {
       "id": 32394,
-      "number": 26,
+      "number": 33,
       "name": "Auberge des Glaciers",
       "area": "La Fouly",
       "country": "CHE",
@@ -5511,7 +5511,7 @@
     },
     {
       "id": 114712,
-      "number": 27,
+      "number": 34,
       "name": "La Fouly Lodge",
       "area": "La Fouly",
       "country": "CHE",
@@ -5769,7 +5769,7 @@
     },
     {
       "id": 32395,
-      "number": 28,
+      "number": 35,
       "name": "Hôtel Edelweiss",
       "area": "La Fouly",
       "country": "CHE",
@@ -6027,7 +6027,7 @@
     },
     {
       "id": 32401,
-      "number": 29,
+      "number": 36,
       "name": "Pension en Plein Air",
       "area": "Champex-Lac",
       "country": "CHE",
@@ -6295,7 +6295,7 @@
     },
     {
       "id": 32403,
-      "number": 30,
+      "number": 37,
       "name": "Relais d'Arpette",
       "area": "Champex-Lac",
       "country": "CHE",
@@ -6537,7 +6537,7 @@
     },
     {
       "id": 32400,
-      "number": 31,
+      "number": 38,
       "name": "Auberge Gîte Bon Abri",
       "area": "Champex-Lac",
       "country": "CHE",
@@ -6795,7 +6795,7 @@
     },
     {
       "id": 110727,
-      "number": 32,
+      "number": 39,
       "name": "Chalet La Grange",
       "area": "Champex-Lac",
       "country": "CHE",
@@ -7037,7 +7037,7 @@
     },
     {
       "id": 32404,
-      "number": 33,
+      "number": 40,
       "name": "Hôtel du Col de la Forclaz",
       "area": "Trient",
       "country": "CHE",
@@ -7265,7 +7265,7 @@
     },
     {
       "id": 32406,
-      "number": 34,
+      "number": 41,
       "name": "Auberge Mont-Blanc",
       "area": "Trient",
       "country": "CHE",
@@ -7467,7 +7467,7 @@
     },
     {
       "id": 39703,
-      "number": 35,
+      "number": 42,
       "name": "Auberge la Grande Ourse",
       "area": "Trient",
       "country": "CHE",
@@ -7685,7 +7685,7 @@
     },
     {
       "id": 32405,
-      "number": 36,
+      "number": 43,
       "name": "Refuge Le Peuty",
       "area": "Trient",
       "country": "CHE",
@@ -7903,7 +7903,7 @@
     },
     {
       "id": "extra-col-balme",
-      "number": 53,
+      "number": 44,
       "name": "Refuge du Col de Balme",
       "area": "Trient",
       "country": "CHE",
@@ -7941,7 +7941,7 @@
     },
     {
       "id": 36470,
-      "number": 37,
+      "number": 45,
       "name": "Refuge Les Ecuries de Charamillon",
       "area": "Argentière / Chamonix Mont-Blanc",
       "country": "FRA",
@@ -8163,7 +8163,7 @@
     },
     {
       "id": 127967,
-      "number": 38,
+      "number": 46,
       "name": "Gîte Saint Louis",
       "area": "Vallorcine",
       "country": "FRA",
@@ -8395,7 +8395,7 @@
     },
     {
       "id": 32383,
-      "number": 39,
+      "number": 47,
       "name": "Gîte Mermoud",
       "area": "Vallorcine",
       "country": "FRA",
@@ -8557,7 +8557,7 @@
     },
     {
       "id": 127963,
-      "number": 40,
+      "number": 48,
       "name": "Chalet Alpin du Tour (FFCAM)",
       "area": "Argentière / Chamonix Mont-Blanc",
       "country": "FRA",
@@ -8789,7 +8789,7 @@
     },
     {
       "id": 32378,
-      "number": 41,
+      "number": 49,
       "name": "Auberge la Boërne",
       "area": "Argentière / Chamonix Mont-Blanc",
       "country": "FRA",
@@ -8951,7 +8951,7 @@
     },
     {
       "id": 32379,
-      "number": 42,
+      "number": 50,
       "name": "Gîte Le Moulin",
       "area": "Argentière / Chamonix Mont-Blanc",
       "country": "FRA",
@@ -9183,7 +9183,7 @@
     },
     {
       "id": "extra-lac-blanc",
-      "number": 50,
+      "number": 51,
       "name": "Refuge du Lac Blanc",
       "area": "Argentière / Chamonix Mont-Blanc",
       "country": "FRA",
@@ -9205,7 +9205,7 @@
     },
     {
       "id": "extra-flegere",
-      "number": 51,
+      "number": 52,
       "name": "Refuge de la Flégère",
       "area": "Argentière / Chamonix Mont-Blanc",
       "country": "FRA",
@@ -9243,7 +9243,7 @@
     },
     {
       "id": "extra-bellachat",
-      "number": 52,
+      "number": 53,
       "name": "Refuge de Bellachat",
       "area": "Argentière / Chamonix Mont-Blanc",
       "country": "FRA",
@@ -9281,7 +9281,7 @@
     },
     {
       "id": 39948,
-      "number": 43,
+      "number": 54,
       "name": "Chalet Les Méandres (ex Tupilak)",
       "area": "Les Houches",
       "country": "FRA",
